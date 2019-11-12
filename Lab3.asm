@@ -1,12 +1,6 @@
 ##########################################################################
 # Created by:  Liang, Yixin
-#              yliang43
-#              12 May 2019
 #
-# Assignment:  Lab 3: MIPS!
-#              CMPE 012, Computer Systems and Assembly Language
-#              UC Santa Cruz, Spring 2019
-# 
 # Description: This program calculate the factorial of the number between 0 to 10 (include 0 and 10).
 # 
 # Notes:       This program is intended to be run from the MARS IDE.
