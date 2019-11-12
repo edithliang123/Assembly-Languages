@@ -1,12 +1,6 @@
 #-------------------------------------------------------------------------
 # Created by:  Liang, Yixin
-#              yliang43
-#              04 June 2019
 #
-# Assignment:  Lab 5: A Gambling Game
-#              CMPE 012, Computer Systems and Assembly Language
-#              UC Santa Cruz, Spring 2019
-# 
 # Description: This program creates a gambling game that allow user to bet and record score
 # 
 # Notes:       This program is intended to be run from the MARS IDE.
