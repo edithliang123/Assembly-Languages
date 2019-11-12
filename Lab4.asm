@@ -1,11 +1,5 @@
 ##########################################################################
 # Created by:  Liang, Yixin
-#              yliang43
-#              24 May 2019
-#
-# Assignment:  Lab 4: Roman Numeral Conversion
-#              CMPE 012, Computer Systems and Assembly Language
-#              UC Santa Cruz, Spring 2019
 # 
 # Description: This program reads roman numerals from program argument, check if it is valid and convert it to binary representation
 # 
